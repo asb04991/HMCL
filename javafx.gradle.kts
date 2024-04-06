@@ -11,6 +11,7 @@ buildscript {
 val jfxVersion = "19.0.2.1"
 
 data class Platform(
+hey dr a i changed this code
     val name: String,
     val classifier: String,
     val groupId: String = "org.openjfx",
